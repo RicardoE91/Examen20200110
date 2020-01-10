@@ -1,0 +1,14 @@
+com\softtek\academia\repository\NationalityRepository.class
+com\softtek\academia\entity\Movie.class
+com\softtek\academia\entity\Nationality.class
+com\softtek\academia\service\NationalityService.class
+com\softtek\academia\entity\Genre.class
+com\softtek\academia\service\DirectorServiceImpl.class
+com\softtek\academia\repository\DirectorRepository.class
+com\softtek\academia\config\HibernateConfig.class
+com\softtek\academia\config\ServletInitializer.class
+com\softtek\academia\config\WebMvcConfig.class
+com\softtek\academia\entity\Director.class
+com\softtek\academia\service\DirectorService.class
+com\softtek\academia\service\NationalityServiceImpl.class
+com\softtek\academia\controller\MainRestController.class
